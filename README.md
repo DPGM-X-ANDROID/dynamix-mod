@@ -2,10 +2,12 @@
 DPGM ANDROID also makes a Dynamix MOD. Compared to other MOD, maybe DPGM will be much better. I think...
 
 MOD FEATURES :
-- Unlock all songs
-- Unlock All Difficult
-- Unlock All Parts
-- Unlock All Character
+- All songs unlocked
+- All pack unlocked
+- All difficult unlocked
+- All Character Unlocked
+- All Parts Unlocked
+- Premium Ver.
 - Unlimited BIT
 
 [DISCORD SERVER](https://discord.gg/PXxXVvm4MU)
