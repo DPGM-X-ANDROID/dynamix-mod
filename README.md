@@ -10,6 +10,6 @@ MOD FEATURES :
 - Premium Ver.
 - Unlimited BIT
 
-[DISCORD SERVER](https://discord.gg/PXxXVvm4MU)
+[DISCORD SERVER](https://dsc.gg/dpgm-android)
 
 [YOUTUBE CHANNEL](https://youtube.com/@DPGM?feature=shared)
